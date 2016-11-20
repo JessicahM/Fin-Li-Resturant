@@ -54,6 +54,7 @@ span {
 	background-size: cover;
 	padding: 30px;
 
+
 }
 
 .jpg {
@@ -94,11 +95,16 @@ span {
 	
     width: 1100px;
     height: 250px;
-    background-color: gray;
+    background-color: white;
     margin-bottom: 100px;
-    border-color: red;
-    border-radius: 5px;
+    border-radius: 2px;
     padding: 22px;
+    border:1px solid;
+    border-top-color: gray;
+    border-bottom-color: gray;
+    border-right-color: gray;
+    border-left-color: gray;
+    box-shadow: 5px, 5px, 5px, 5px;
 }
 
 .other2 h5 {
