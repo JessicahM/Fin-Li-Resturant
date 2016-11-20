@@ -230,16 +230,20 @@ span {
  .form-group {
  	width: 320px;
  	margin-left: 500px;
+ 	
+ }
+ .form-control {
  	opacity: 0.5;
  }
-
- 
 
 button {
 	width: 220px;
 	margin-left: 400px;
 	margin-top: -60px;
-	color: #F15A29;
+	color: white;
+	background-color: #F15A29;
+	opacity: 0.9;
+}
 }
 
 .other6 {
