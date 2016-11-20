@@ -95,22 +95,29 @@ span {
 }
 
 #fastfoods {
-	width: 40%;
+	width: 80%;
 	float: right;
-	height: 30px;
-	margin-top: -10px;
+	margin-top: 15px;
     font-family: 'Noticia Text', serif;
 }
 
 #foods {
-	width: 40%;
+	width: 50%;
 	float: right;
 
+}
+
+#fast {
+	width: 50%;
 }
 
 #drinks {
 
     font-family: 'Noticia Text', serif;
+    float: left;
+    width: 200%;
+    margin-left: -1000px;
+    padding-left: 70px;
 
 }
 
@@ -163,6 +170,9 @@ span {
 
 }
 
+.fast {
+	margin-top: 40px;
+}
 .other2 {
 	
     width: 1100px;
@@ -242,7 +252,8 @@ button {
 
 .other7 {
 	margin-top: 80px;
-	margin-left: 500px;
+	margin-left: 480px;
+	width: 20%;
 }
 
 .other7 h2 {
@@ -254,19 +265,19 @@ button {
 .other7 p {
 	font-size: 17px;
 	color: white;
-	margin-left: 18px;
+	margin-left: 15px;
+	margin-bottom: 40px;
 }
 
-.other8 {
-	width: 700px;
-	margin-left: 520px;
-	margin-top: 20px;
-}
 
-.license {
+
+.license p {
 	color: white;
-	margin-left: 510px;
+	margin-left: 500px;
 	padding-bottom: 50px;
+	margin-bottom: 15px;
+	margin-top: 70px;
+	
 	
 }
 
@@ -275,15 +286,43 @@ h5 {
 	font-weight: bold;
 }
 
-.gallarey1 {
-	margin-left: 120px;
-	margin-top: 320px;
-	border-radius: 1px;
-	height: 40px;
-	border-color: #F15A29;
-	border-bottom: 0px;
-	border-right: 2px;
-	border-right-color: #F15A29;
-	border-top: 0px;
-	border-left: 0px;
+.button {
+
+	background-color: white;
+    border-radius: 1px;
+    color: #F15A29;
+    padding: 9px 60px;
+    text-decoration-line: none;
+    top:90px;
+    font-size: 12px;
+    margin: 350px 5px;
+    cursor: pointer;
+    border-left-color: #F15A29; 
+    border: 1px solid #F15A29 ;
+}
+hr {
+	height: 1px;
+	width: 63px;
+	margin-top:10px;
+}
+
+#drinks h3 {
+	float: right;
+}
+
+#drinks h5 {
+	float: right;
+}
+ #drinks p {
+ 	float: right
+ 	margin-left: -150px;
+ 	padding-left: 100px;
+ }
+
+#drinks a {
+	margin-left: 95px;
+}
+
+.tag1 tag2 tag3 {
+	margin-top: 200px;
 }
