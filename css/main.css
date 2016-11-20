@@ -1,10 +1,12 @@
 
+
 .bgimage {
 	background-image: url("../sa2/assets/backgrounds/landing.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	width: 100%;
-	height: 800px;
+	height: 890px;
+	margin-top: 10px;
 
 
 }
@@ -14,31 +16,101 @@
 }
 
 .logo {
-	margin-left: 450px;
+	margin-left: 430px;
 	padding-top: 250px;
 }
 .logo p {
     color: white;
-    text-indent: 45px;
+    text-indent: -40px;
     padding-top: -1px;
-    font-size: 20px;
+    font-size: 25px;
+    font-family: 'Pontano Sans', sans-serif;
    
 }
 span {
-	font-weight: bolder;
+	margin-left: 50px;
+
 }
 
+.other0 {
+	margin-top: 51px;
+	width: 98%;
+
+}
+
+#element {
+	width:350px;
+	height:105px;
+	background-color: white;
+	margin-left: -15px;
+}
+
+#element h3 {
+	text-align: center;
+	padding-top: 30px;
+	color: black;
+	font-family: font-family: 'Alegreya', serif;
+
+
+}
+
+#element2 {
+	width:350px;
+	height:105px;
+	background-color: #F15A29;
+	margin-left: -15px;
+	color: white;
+	font-family: font-family: 'Alegreya', serif;
+}
+
+#element2 h3 {
+	text-align: center;
+	padding-top: 30px;
+}
+
+.other10 h3 {
+	text-align: center;
+	margin-top: -130px;
+	margin-left: 60px;
+	color: white;
+	font-family: font-family: 'Niconne', cursive;
+}
+.other11 h3 {
+	text-align: center;
+	margin-top: -130px;
+	margin-left: 60px;
+	color: white;
+	font-family: font-family: 'Niconne', cursive;
+}
+
+.other11 img {
+	opacity: 5;
+}
+.other12 h3 {
+	text-align: center;
+	margin-top: -130px;
+	margin-left: 60px;
+	color: white;
+	font-family: font-family: 'Niconne', cursive;
+}
 
 #fastfoods {
 	width: 40%;
 	float: right;
 	height: 30px;
 	margin-top: -10px;
+    font-family: 'Noticia Text', serif;
 }
 
 #foods {
 	width: 40%;
 	float: right;
+
+}
+
+#drinks {
+
+    font-family: 'Noticia Text', serif;
 
 }
 
@@ -196,4 +268,22 @@ button {
 	margin-left: 510px;
 	padding-bottom: 50px;
 	
+}
+
+h5 {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.gallarey1 {
+	margin-left: 120px;
+	margin-top: 320px;
+	border-radius: 1px;
+	height: 40px;
+	border-color: #F15A29;
+	border-bottom: 0px;
+	border-right: 2px;
+	border-right-color: #F15A29;
+	border-top: 0px;
+	border-left: 0px;
 }
