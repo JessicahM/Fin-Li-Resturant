@@ -164,9 +164,9 @@ span {
 .menu {
 	margin: 100px 30px 150px 30px;
 	border: 100px;
-	border-color: red;
 	padding-top: 15px;
 	padding-bottom: 10px;
+	font-family: 'Noticia Text', serif; 
 
 }
 
@@ -211,8 +211,9 @@ span {
 	text-indent: 45px;
 }
 
-.other5 p {
+.other3 {
 
+    
 }
 
 .contact {
